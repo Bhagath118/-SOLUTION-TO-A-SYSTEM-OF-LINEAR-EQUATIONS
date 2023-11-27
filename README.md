@@ -22,7 +22,8 @@ print("[-4.  3. -2.]")
 ```
 
 ## Output:
-![Uploading solution.png…]()
+![output](/)![solution](https://github.com/Bhagath118/-SOLUTION-TO-A-SYSTEM-OF-LINEAR-EQUATIONS/assets/147473779/b08437a8-5444-4c33-a1fd-db3c447a5538)
+
 
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program
